@@ -1,0 +1,66 @@
+{
+    "trips": [
+      {
+        "id": "1",
+        "price": 250000,
+        "seats": 30,
+        "fromStation": "Hà Nội",
+        "toStation": "Nghệ An",
+        "startTime": "2024-03-31T12:15",
+        "busHousesId": "1",
+        "stationId": "1"
+      },
+      {
+        "id": "2",
+        "price": 300000,
+        "seats": 20,
+        "fromStation": "Bắc Giang",
+        "toStation": "Hải Phòng",
+        "startTime": "2024-04-03T12:15",
+        "busHousesId": "2",
+        "stationId": "4"
+      }
+    ],
+    "stations": [
+      {
+        "id": "1",
+        "name": "Bến xe Mỹ Đình",
+        "province": "Hà Nội"
+      },
+      {
+        "id": "2",
+        "name": "Bến xe Giáp Bát",
+        "province": "Hà Nội"
+      },
+      {
+        "id": "3",
+        "name": "Bến Vĩnh Niệm",
+        "province": "Hải Phòng"
+      },
+      {
+        "id": "4",
+        "name": "Bến xe Thượng Lý",
+        "province": "Hải Phòng"
+      }
+    ],
+    "busHouses": [
+      {
+        "id": "1",
+        "name": "Hải Phòng Travel (Đất Cảng)",
+        "address": "Hải Phòng",
+        "phone": "0987654321"
+      },
+      {
+        "id": "2",
+        "name": "Hoàng Phú Limousine",
+        "address": "Hải Phòng",
+        "phone": "0365465791"
+      },
+      {
+        "id": "3",
+        "name": "Anh Huy (Hải Phòng)",
+        "address": "Hải Phòng",
+        "phone": "012356789"
+      }
+    ]
+  }
